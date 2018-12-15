@@ -2,7 +2,9 @@ from user_simulator import UserSimulator
 from error_model_controller import ErrorModelController
 from dqn_agent import DQNAgent
 from state_tracker import StateTracker
-import pickle, argparse, json
+import pickle,\
+       argparse, \
+       json
 from user import User
 from utils import remove_empty_slots
 
@@ -70,6 +72,7 @@ def test_run():
 
     """
 
+    global success
     print('Testing Started...')
     episode = 0
     while episode < NUM_EP_TEST:

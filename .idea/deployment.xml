@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="ML-CPU" uploadOnCheckin="32b4985c-adef-47ec-b580-45f3b746ba78">
+    <serverData>
+      <paths name="ML-CPU">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ales/go-bot" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="ML-CPU" />
+  </component>
+</project>
